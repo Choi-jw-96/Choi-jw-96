@@ -11,9 +11,7 @@
 
 ---
  
-💜Study : <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
+💜Study : <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
 
 
 💜이메일 : won60917@naver.com
